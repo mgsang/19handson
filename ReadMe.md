@@ -1,7 +1,7 @@
 # ARISTA NETWORKS Hands-On Session
 
 -------------
-### Arista Networks : 10월 - 핸즈온 - MLAG, VXLAN, EVPN 튜토리얼
+### Arista Networks : 10월 31일 - 핸즈온 - VXLAN, EVPN 튜토리얼
 
 #### 아리스타 장비를 체험해보세요.
 
