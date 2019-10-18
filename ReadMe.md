@@ -12,7 +12,7 @@
 실습 구성도
 * VXLAN
 * L2 EVPN
-* L3 EVPN : [Topology] (Topology/Hands-on_EVPN(L3).png)
+* L3 EVPN : [Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L3).png)
 
 실습 내용
 * MLAG
