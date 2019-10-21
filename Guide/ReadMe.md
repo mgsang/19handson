@@ -17,6 +17,13 @@ Step 2# ATD 랩 가이드 다운로드<br>
 ![img2](https://github.com/mgsang/19handson/blob/master/Guide/images/step3.png)<br>
 2-3. Lab Guides(PDF) 클릭하여 가이드 파일 다운로드<br>
 
+메뉴 | 설명
+---|:---:
+`Lab Guides(PDF)` | 랩 접속 / 설정 가이드
+`Lab Frontend` | 웹 브라우져로 랩 장비 접속
+`CVP` | CloudVision Portal 접속
+`CVP Telemetry` | CloudVision Portal 접속
+
 Step 3# ATD 랩 원격 접속 (SSH)
 
 ```python
