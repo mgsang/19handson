@@ -12,12 +12,11 @@
 핸즈온 실습 방법
 
 실습 구성도
-* VXLAN
-* L2 EVPN
-* L3 EVPN : [Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L3).png)
+* [VXLAN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_VXLAN.png)
+* [L2 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L2).png)
+* [L3 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L3).png)
 
 실습 내용
-* MLAG
 * VXLAN
 * EVPN
 
