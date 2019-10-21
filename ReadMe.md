@@ -8,8 +8,10 @@
 발표자 : 박세일차장/Arista Networks Korea
 
 발표자료 : 슬라이드
+* [슬라이드(PPT)](...)
 
 핸즈온 실습 방법
+* [핸즈온 실습 가이드(장비 접속 및 설정)](https://github.com/mgsang/19handson/tree/master/Guide)
 
 실습 구성도
 * [VXLAN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_VXLAN.png)
