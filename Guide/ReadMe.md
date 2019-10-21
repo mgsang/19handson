@@ -10,12 +10,15 @@ http://adc-topology.arista.com/api/topology/XXXXX
 ```
 
 Step 2# ATD 랩 가이드 다운로드<br>
-[logo]: http://www.gstatic.com/webp/gallery/2.jpg "ADC Topology."<br>
+
+![img1](https://github.com/mgsang/19handson/blob/master/Guide/images/step2.png)<br>
 2-1. Start Topology 클릭하여 장비 실행 (Stopped -> Pending -> Running, 30초 ~ 1분 소요되며 8시간 이후 자동 정지)<br>
 2-2. Click Here To Access Topology 클릭하여 토폴로지 접속<br>
-
+![img2](https://github.com/mgsang/19handson/blob/master/Guide/images/step3.png)<br>
+2-3. Lab Guides(PDF) 클릭하여 가이드 파일 다운로드<br>
 
 Step 3# ATD 랩 원격 접속 (SSH)
+
 ```python
 ssh arista@ip address
 password : arista
