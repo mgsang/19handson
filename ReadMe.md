@@ -35,6 +35,6 @@
   - [L2 Leaf Spine Design Guide](https://downloads.arista.com/DesignGuides/L2LS_Design_Guide.pdf?Expires=1571729003&Signature=StYEh~gv5iaIurcqLPNIIO20baM6VzhTz4isAb0e8NdpQJInBnde2Rp0oHe0akUDwtcETYekz48SHjhSikuXXNP4jSD6lm-k3z0S4okU26MoW~bLWJBp6ZUeDGd5dwDbFf5QNazSF4TAbsPMytIDgI2hiOLnakIOzAayvbX1qE1bMfrTPI~ZAgi23IVQQRyZjHKknybElFB9M5GwuVnCMRc03zRn5~w~8uRbKV699CVbW4naMv-2eTLzoCdEyE8R4pRkKSSDhEq3-19Otbal7UniC94la7fVxnluUef1ACCoYthC9-LJMsCQ6oBb4qSzRd0C6rMK5pI09XxwlJyaZA__&Key-Pair-Id=APKAJIVJRQERDQSM5TDQ)
   - [L3 Leaf Spine Design Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/Arista_L3LS_Design_Deployment_Guide.pdf)
 - Cloud Vision
-  - [Cloud Vision Guide](https://www.arista.com/en/cg-cv/cv-introduction-to-cloudvision)
+  - [Introduction to Cloud Vision](https://www.arista.com/en/cg-cv/cv-introduction-to-cloudvision)
 - ANY Cloud (Hybrid Cloud Networking)
   - [ANY Cloud Architecture](https://www.arista.com/en/solutions/hybrid-cloud)
