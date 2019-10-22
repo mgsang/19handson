@@ -32,4 +32,11 @@ password : arista
 ```
 #### Step 4# 테스트 랩 시나리오 선택 및 장비 접속
 ![img3](https://github.com/mgsang/19handson/blob/master/Guide/images/connecting_ssh.png)<br>
+
+번호 | 설명
+---|:---:
+`1 ~ 9` | 네트워크 장비
+`21` | 설정 초기화
+`22 ~ 27` | 시나리오 별 자동 설정
+
 #### Step 5# 다운로드 받은 ATD 랩 가이드를 보고 설정
