@@ -39,5 +39,7 @@
   - [L3 Leaf Spine Design Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/Arista_L3LS_Design_Deployment_Guide.pdf)
 - Cloud Vision
   - [Introduction to Cloud Vision](https://www.arista.com/en/cg-cv/cv-introduction-to-cloudvision)
+- Campus Network  
+  - [Congnitive Campus Network](https://www.arista.com/ko/solutions/cognitive-campus-network)
 - ANY Cloud (Hybrid Cloud Networking)
   - [ANY Cloud Architecture](https://www.arista.com/en/solutions/hybrid-cloud)
