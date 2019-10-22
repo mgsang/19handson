@@ -31,5 +31,5 @@ ssh arista@ip address
 password : arista
 ```
 #### Step 4# 테스트 랩 시나리오 선택 및 장비 접속
-![img3](https://github.com/mgsang/19handson/blob/master/Guide/images/connecting_ssh.jpg)<br>
+![img3](https://github.com/mgsang/19handson/blob/master/Guide/images/connecting_ssh.png)<br>
 #### Step 5# 다운로드 받은 ATD 랩 가이드를 보고 설정
