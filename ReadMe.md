@@ -14,9 +14,9 @@
 * [핸즈온 실습 가이드(장비 접속 및 설정)](https://github.com/mgsang/19handson/tree/master/Guide)
 
 실습 구성도
-* [VXLAN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_VXLAN.png)
-* [L2 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L2).png)
-* [L3 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L3).png)
+* [VXLAN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_VXLAN.jpg)
+* [L2 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L2).jpg)
+* [L3 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L3).jpg)
 
 실습 내용
 * VXLAN
