@@ -1,11 +1,11 @@
 # ARISTA NETWORKS Hands-On Session
 
--------------
+---
 ### Arista Networks : 10월 31일 - 핸즈온 - VXLAN, EVPN 튜토리얼
 
 #### 아리스타 장비를 체험해보세요.
 
-발표자 : 박세일차장/Arista Networks Korea
+발표자 : Arista Networks Korea 박세일차장 
 
 발표자료 : 슬라이드
 * [슬라이드(PPT)](...)
@@ -19,16 +19,19 @@
 * [L3 EVPN Topology](https://github.com/mgsang/19handson/blob/master/Topology/Hands-on_EVPN(L3).jpg)
 
 실습 내용
-* VXLAN
-* EVPN
+- VXLAN
+  - VXLAN 브리징 동작에 대한 이해와 장비 설정을 통한 레이어2 확장에 대해 이해
+  - VXLAN 브리징 라우팅에 대한 이해와 장비 설정을을 통한 통신 과정 이해
+- EVPN
+  - L2 EVPN 블라블라
+  - L3 EVPN 블라블라
 
-참고자료
-* MLAG : [Document](https://www.google.com)
-* VXLAN
-* EVPN : 
+실습 참고 자료
+* VXLAN :[자료](...)
+* EVPN :[자료](...)
 
 
-- - - 
+*** 
 
 추가적으로 아리스타 제품에 대해 궁금하시다면 아래 내용을 참고하세요.
 - Spine - Leaf Design
