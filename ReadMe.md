@@ -32,8 +32,20 @@
 
 
 *** 
-
 추가적으로 아리스타 기술에 대해 궁금하시다면 아래 내용을 참고하세요.
+- [Youtube]Arista Networks 클라우드 네트워킹 10년의 역사<br>
+[![190928 Arista Networks the Cloud Networking Decade](https://img.youtube.com/vi/Yxp0bAAibdI/0.jpg)](https://www.youtube.com/watch?v=Yxp0bAAibdI)
+
+- [Youtube]Arista Networks Universal Cloud Network<br>
+[![190928 Universal Cloud Network](https://img.youtube.com/vi/aWqLI74vo_E/0.jpg)](https://www.youtube.com/watch?v=aWqLI74vo_E&feature=youtu.be)
+
+
+
+
+
+
+***
+
 - Spine - Leaf Design
   - [L2 Leaf Spine Design Guide](https://downloads.arista.com/DesignGuides/L2LS_Design_Guide.pdf?Expires=1571729003&Signature=StYEh~gv5iaIurcqLPNIIO20baM6VzhTz4isAb0e8NdpQJInBnde2Rp0oHe0akUDwtcETYekz48SHjhSikuXXNP4jSD6lm-k3z0S4okU26MoW~bLWJBp6ZUeDGd5dwDbFf5QNazSF4TAbsPMytIDgI2hiOLnakIOzAayvbX1qE1bMfrTPI~ZAgi23IVQQRyZjHKknybElFB9M5GwuVnCMRc03zRn5~w~8uRbKV699CVbW4naMv-2eTLzoCdEyE8R4pRkKSSDhEq3-19Otbal7UniC94la7fVxnluUef1ACCoYthC9-LJMsCQ6oBb4qSzRd0C6rMK5pI09XxwlJyaZA__&Key-Pair-Id=APKAJIVJRQERDQSM5TDQ)
   - [L3 Leaf Spine Design Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/Arista_L3LS_Design_Deployment_Guide.pdf)
