@@ -34,7 +34,7 @@
 *** 
 추가적으로 아리스타 기술에 대해 궁금하시다면 아래 내용을 참고하세요.
 - [Youtube]Arista Networks 클라우드 네트워킹 10년의 역사<br>
-[![190928 Arista Networks the Cloud Networking Decade](https://img.youtube.com/vi/Yxp0bAAibdI/0.jpg)](https://www.youtube.com/watch?v=Yxp0bAAibdI)
+[![Arista Networks the Cloud Networking Decade](https://img.youtube.com/vi/Yxp0bAAibdI/0.jpg)](https://www.youtube.com/watch?v=Yxp0bAAibdI)Arista Networks the Cloud Networking Decade
 
 - [Youtube]Arista Networks Universal Cloud Network<br>
 [![190928 Universal Cloud Network](https://img.youtube.com/vi/aWqLI74vo_E/0.jpg)](https://www.youtube.com/watch?v=aWqLI74vo_E&feature=youtu.be)
